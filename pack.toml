@@ -1,0 +1,13 @@
+name = "Hexmc Testing"
+author = "Tabzlock"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fef247e5d51e17ef165b1f9124285ef6a08e59adeddca494b260c205afc0e264"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.5-beta.1"

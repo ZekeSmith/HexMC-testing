@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "a019fcb7fd5f5fbd69c43c95c11c4556a1b1ae79ea60a6f2c8a220c80ae04911"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7abb7ec5fd49525a7a3582231085cb429799cf840296a26a2666614bf0968bd2"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "d1c9cc74fceec4556cab433e04a581b41b394881563f9ba2b33e85d7f7324a13"
+metafile = true
