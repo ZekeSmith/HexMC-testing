@@ -56,11 +56,6 @@ hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
-file = "mods/fabric-reinforced-obsidian-mi-addon.pw.toml"
-hash = "82d8d55caa8423f93cb89afe22f5607960f51351695fdb44901c670dc31ac35b"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "6a4cff36e9fd0cf82d0e703ad2289315fcfaa0cc59cd667b8821d4b3ff9d276d"
 metafile = true
