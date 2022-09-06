@@ -21,6 +21,11 @@ hash = "a019fcb7fd5f5fbd69c43c95c11c4556a1b1ae79ea60a6f2c8a220c80ae04911"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
