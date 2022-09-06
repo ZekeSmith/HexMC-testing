@@ -26,11 +26,6 @@ hash = "a019fcb7fd5f5fbd69c43c95c11c4556a1b1ae79ea60a6f2c8a220c80ae04911"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
@@ -46,6 +41,11 @@ hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "b0beb4b1bebaf3e79ceee1c760a2e146aac1beaf810006df95eb3b45c26348a0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
@@ -53,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "5a4a010bfaf3c27cd4631277f5303be73303b78f5684567389c77cd1347d1f52"
 metafile = true
 
 [[files]]
@@ -146,13 +151,18 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+file = "mods/terrestria.pw.toml"
+hash = "a4dce23b26046b0cd59801aca7711e1eb4c0c3a58352c0fa90c9167e59363e83"
 metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "8934acb9f90f13a18c86801df61720fec71ad60b3ed042916bbf08ba25a6b6fc"
 metafile = true
 
 [[files]]
